@@ -1,3 +1,4 @@
+# We need the following packages for Binder.
 numpy
 matplotlib
 qiskit
